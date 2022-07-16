@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**fireindark707/fireindark707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://www.codewars.com/users/phoenix000/badges/large?theme=light)
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
